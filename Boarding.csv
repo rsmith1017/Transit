@@ -1,0 +1,16 @@
+Lastname,Boarding Number,Times,Cost,Destination
+Jackson,1000,12:00 PM,$2.50 ,Charlotte
+Smith,1001,1:00 PM,$3.00 ,Charlotte
+Johnson,1002,2:00 PM,$3.00 ,Charlotte
+Williams,1003,3:00 PM,$3.00 ,Charlotte
+Jones,1004,4:00 PM,$3.00 ,Charlotte
+Brown,1005,5:00 PM,$3.00 ,Charlotte
+Williams,1006,6:00 PM,$3.00 ,Charlotte
+Johnson,1007,7:00 PM,$3.00 ,Charlotte
+Smith,1008,8:00 PM,$3.00 ,Raleigh
+Jones,1009,9:00 PM,$3.00 ,Raleigh
+Jones,1010,10:00 PM,$3.00 ,Raleigh
+Brown,1011,11:00 PM,$3.00 ,Raleigh
+Williams,1012,12:00 AM,$3.00 ,Raleigh
+Williams,1013,1:00 AM,$3.00 ,Raleigh
+Smith,1014,2:00 AM,$3.00 ,Raleigh
